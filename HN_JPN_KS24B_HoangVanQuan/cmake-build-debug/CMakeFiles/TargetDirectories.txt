@@ -1,0 +1,3 @@
+/Users/phanthiquynhtrang/Desktop/HN_JPN_KS24B_HoangVanQuan/cmake-build-debug/CMakeFiles/PTIT_CNTT5_.dir
+/Users/phanthiquynhtrang/Desktop/HN_JPN_KS24B_HoangVanQuan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/phanthiquynhtrang/Desktop/HN_JPN_KS24B_HoangVanQuan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
